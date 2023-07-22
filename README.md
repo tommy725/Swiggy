@@ -10,5 +10,5 @@ Screen 5               |  Screen 6                       | Screen 7             
 
 Screen 9               |  Screen 10                       | Screen 11                            |  Screen 12 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](screenshots/genie.jpg)|![](screenshots/grocery.jpg)|![](screenshots/meat.jpg)|![](screenshots/indian-food.jpg)|
+![](screenshots/genie.jpg)|![](screenshots/grocery.jpg)|![](screenshots/meat.jpg)|![](screenshots/indian-food.jpg)| 
 
